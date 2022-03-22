@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dhairya 
 - 👀 I’m interested in Game Development and A.I
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python,C#
+- 💞️ I’m looking to collaborate on 2d and 3d game projects
 - 📫 How to reach me Instagram - @dhairyaxoza666
 
 <!---
